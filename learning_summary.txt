@@ -1,6 +1,16 @@
 EDA learning summary
-for this assignment, I performed Exploratory Data Analysis (EDA) on the MBA Supply Chain dataset. The dataset contained information divided into various columns and each affect the outcome.
-During the analysis, I learned how to load a dataset using pandas and use various library functions like head,info and describle.
-I also checked for blank spaces and duplicate data to understand and improve the quality of data.
+
+for this assignment, I performed Exploratory Data Analysis (EDA) 
+on the MBA Supply Chain dataset. The dataset contained 
+information divided into various columns and each affect the outcome.
+
+During the analysis, I learned how to load a dataset using pandas 
+and use various library functions like head,info and describle.
+
+I also checked for blank spaces and duplicate data to understand and 
+improve the quality of data.
+
 After that i used seaborn and matplotlib to visualise the data in various forms.
-This assignment helped me gain practical experience with python libraries which were pandas,numpy,seaborn and matplotlob.
+
+This assignment helped me gain practical experience with python
+libraries which were pandas,numpy,seaborn and matplotlob.
